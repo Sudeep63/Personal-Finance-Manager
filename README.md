@@ -37,7 +37,7 @@ Scikit-Learn (Prediction model)
 
 📦 Installation
 1️⃣ Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Sudeep63/Personal-Finance-Manager/tree/main)
 cd your-repo-name
 
 2️⃣ Install dependencies:
